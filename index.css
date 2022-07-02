@@ -90,6 +90,26 @@
     margin-top: 30px;
     margin-left: 40px;
  }
+ .horbar{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+    border-style:hidden;
+    border-width: 1px;
+    width: 800px;
+    height: 88px;
+    margin-left: 500px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:whitesmoke;
+
+ }
+ .nav{
+    color: #0F298B;
+    font-size: medium;
+ }
     
 
 
