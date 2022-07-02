@@ -50,6 +50,20 @@
  #home{
     color: #2459D3;
  }
+ #img1{
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+ }
+ .section1{
+    display: flex;
+
+ }
+ .section1 img1{
+    margin-left: 50px;
+
+ }
+ 
     
 
 
