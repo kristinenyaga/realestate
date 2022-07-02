@@ -63,7 +63,33 @@
     margin-left: 50px;
 
  }
- 
+ #title1{
+    color: #0F298B;
+    font-size: 5em;
+    margin-top: 40px;
+    margin-left: 40px;
+
+ }
+ #title2{
+    font-size: 35px;
+    font-weight: 100px;
+    font-family: cursive;
+    margin-left: 40px;
+    margin-top: 20px;
+
+ }
+ #lnmore{
+    border-style: groove;
+    background-color: #2459D3;
+    border-radius: 5px;
+    border-color: #2459D3;
+    color: #FAFAFA;
+    padding: 9px;
+    font-weight: 500;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 40px;
+ }
     
 
 
