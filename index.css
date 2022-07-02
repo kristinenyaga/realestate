@@ -114,7 +114,31 @@
     color: #0F298B;
     font-size: medium;
  }
- 
+ .section3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'M PLUS Rounded 1c', sans-serif;;
+    
+ }
+ .sec3{
+    flex-basis: 26%;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    box-shadow: whitesmoke;
+    width: 50px;
+    margin-top :40px;
+    padding-left: 140px;
+}
+.pp{
+    font-size: medium;
+    font-weight:700px;
+    font-family:Rajdhani', sans-serif;
+    
+}
 
 
 
