@@ -139,6 +139,26 @@
     font-family:Rajdhani', sans-serif;
     
 }
+.sec3:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+#ourprod{
+    color: #0F298B;
+    margin-left: 80px;
+    font-size:60px;
+    font-weight: bold;
+}
+.title{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+}
+#how{
+    color: #0F298B;
+}
+
 
 
 
