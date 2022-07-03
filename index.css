@@ -110,14 +110,14 @@
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
-    border-radius: 3px;
+    border-radius: 5px;
     border-style:hidden;
     border-width: 1px;
     width: 800px;
     height: 88px;
-    margin-left: 500px;
+    margin-left: 300px;
     padding-top: 30px;
-    padding-left: 20px;
+    padding-left: 30px;
     padding-right: 20px;
     background-color:whitesmoke;
     margin-bottom: 30px;
@@ -135,21 +135,22 @@
     
  }
  .sec3{
-    flex-basis: 26%;
+    flex-basis: 31%;
     background-color:whitesmoke;
     border-radius: 10px;
     margin-bottom: 5%;
-    padding: 20px 12px;
+    padding: 20px 9px;
     box-sizing: border-box;
     box-shadow: whitesmoke;
-    width: 50px;
+    width: 60px;
     margin-top :40px;
     padding-left: 140px;
+    font-size:25px;
 }
 .pp{
-    font-size: medium;
+    font-size: 20px;
     font-weight:700px;
-    font-family:Rajdhani', sans-serif;
+    font-family:'Times New Roman', Times, serif
     
 }
 .sec3:hover{
@@ -204,8 +205,6 @@
     font-size: 20px;
     font-weight:lighter;
 }
-
-
 
 
 
