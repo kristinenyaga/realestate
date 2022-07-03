@@ -45,8 +45,8 @@
     border-radius: 5px;
     border-color: #2459D3;
     color: #FAFAFA;
-    padding: 9px;
-    font-weight: 500px;
+    padding: 12px;
+    font-size: large;
 
  }
  #home{
@@ -82,16 +82,26 @@
 
  }
  #lnmore{
-    border-style: groove;
+    
     background-color: #2459D3;
     border-radius: 5px;
     border-color: #2459D3;
     color: #FAFAFA;
-    padding: 9px;
+    padding: 12px;
     font-weight: 500;
-    width: 100px;
-    margin-top: 30px;
+     margin-top: 25px;
+
     margin-left: 40px;
+    font-size:large;
+ }
+ .fa-circle-play{
+    font-size: 30px;
+    color:#2459D3
+    
+ }
+ .fa-circle-play:hover{
+    cursor: pointer;
+    color:black
  }
  .horbar{
     margin-top: 40px;
